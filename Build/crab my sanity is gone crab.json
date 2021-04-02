@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prototype but 4",
+"productVersion": "0.1",
+"dataUrl": "crab my sanity is gone crab.data.unityweb",
+"wasmCodeUrl": "crab my sanity is gone crab.wasm.code.unityweb",
+"wasmFrameworkUrl": "crab my sanity is gone crab.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
